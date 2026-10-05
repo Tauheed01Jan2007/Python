@@ -1,0 +1,5 @@
+a=input("enter a: ")
+b=input("enter b: ")
+# str="{} and {}  is scripting language.".format(l1,l2)
+print("%s and %s is a programming language "%(a,b))
+# print(str)
